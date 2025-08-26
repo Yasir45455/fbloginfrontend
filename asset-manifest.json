@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fbloginfrontend/static/js/main.9844f34a.js",
+    "main.js": "/fbloginfrontend/static/js/main.e8c94305.js",
     "index.html": "/fbloginfrontend/index.html",
-    "main.9844f34a.js.map": "/fbloginfrontend/static/js/main.9844f34a.js.map"
+    "main.e8c94305.js.map": "/fbloginfrontend/static/js/main.e8c94305.js.map"
   },
   "entrypoints": [
-    "static/js/main.9844f34a.js"
+    "static/js/main.e8c94305.js"
   ]
 }
